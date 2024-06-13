@@ -1,3 +1,6 @@
+![MasterHead](https://github.com/Glitzzybetty/Glitzzybetty/assets/130115684/0c9c87bc-7b1e-407f-90bb-66c7fe500487)
+
+
 - 👋 Hi, I’m Omotayo Ikudayisi
 - 👀 I’m interested in Data technologies including Artificial Intelligence
 - 🌱 I’m currently learning Financial Engineering, LLAMA and other artificial Inteligence framework
