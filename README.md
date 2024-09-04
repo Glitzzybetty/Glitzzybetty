@@ -8,6 +8,7 @@
 - 📫 How to reach me omotayo.ikudayisi@gmail.com  
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am ground in data techniques for driving business growth.
+-  Humble beginings, this is also me: https://github.com/Glitzabeth
 
 <!---
 Glitzzybetty/Glitzzybetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
