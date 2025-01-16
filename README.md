@@ -25,7 +25,7 @@ I am passionate about Data Technologies and Artificial Intelligence. My experien
 - **[Credit Risk Optimisation](https://glitzzybetty.github.io/Credit-Risk-Optimisation/)**  
   A project exploring data-driven methods to assess and optimize credit risk, showcasing my background in risk analytics and financial data modeling.
 - **[Loan Default Analysis Dasboard](https://rpubs.com/Glitzzybetty/1211992/)**  
-  A project dashboard that communicates the ABZ business (Fictional Company) Loan Default Analysis and how to improve her business business for loans issued from 2007 to 2013 with [detailed explanation here](https://www.linkedin.com/posts/omotayo-ikudayisi_loan-default-analysis-and-key-reccommendation-activity-7231613926835159040-OW_d?utm_source=share&utm_medium=member_desktop).
+  A project dashboard that communicates the ABZ business (Fictional Company) Loan Default Analysis and how to improve her business loans; issued from 2007 to 2013 with [detailed explanation here](https://www.linkedin.com/posts/omotayo-ikudayisi_loan-default-analysis-and-key-reccommendation-activity-7231613926835159040-OW_d?utm_source=share&utm_medium=member_desktop).
 - **[Business Bulletin with PowerBI](https://www.linkedin.com/posts/omotayo-ikudayisi_sausy-exchange-business-bulletin-on-8-years-activity-7235022905204461569-UL0t?utm_source=share&utm_medium=member_desktop)**  
   A project exploring insights from a recent in-depth analysis, which I've visually expressed in Power BI and combined with detailed presentation to design a Comprehensive Business Bulletin for a fictional company named Sausy Exchange
 
