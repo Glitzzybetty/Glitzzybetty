@@ -6,18 +6,18 @@ I am passionate about Data Technologies and Artificial Intelligence. My experien
 
 ---
 
-## About Me
+## About Me 😄
 
 - **Pronouns**: She/Her  
 - **Location**: Nigeria  
-- **Currently Learning**: Financial Engineering, LLAMA, and other AI frameworks  
+- **Currently Learning**: Financial Engineering, LLAMA, and other AI frameworks   
 - **Interests**: Data analytics, machine learning, data privacy, compliance, and data literacy advocacy  
 - **Fun Fact**: I am grounded in data techniques for driving business growth.  
 - **Humble Beginnings**: [My Early GitHub Profile](https://github.com/Glitzabeth) [with old projects here](https://omotayotiti.netlify.app/)
 
 ---
 
-## Very Recent Projects & Publications
+## Very Recent Projects & Publications 🌱
 
 - **[Movie Prediction App](https://movie-revenue-prediction-equh8ryt3apptgtpgkb2jvm.streamlit.app/)**  
   A web-based application built with Streamlit, which predicts movie revenue based on key features like budget, cast popularity, and genre.  
@@ -32,7 +32,7 @@ I am passionate about Data Technologies and Artificial Intelligence. My experien
 
 ---
 
-## Let's Collaborate
+## Let's Collaborate 💞️
 
 I am always excited to work on **Artificial Intelligence** and **Data Science** projects that have real-world impact. If you have an idea or would like to brainstorm, don’t hesitate to reach out.
 
@@ -41,15 +41,15 @@ I am always excited to work on **Artificial Intelligence** and **Data Science** 
 
 ---
 
-## More About Me
+## More About Me 👀
 
-- **Looking to Collaborate On**: AI and data projects that drive innovation and solve critical business challenges  
+- **Looking to Collaborate On**: AI and data projects that drive innovation and solve critical business challenges
 - **Data Advocacy**: I regularly promote data literacy and best practices in data privacy and protection  
 - **Social**: Let’s connect on [LinkedIn](https://www.linkedin.com/in/omotayo-ikudayisi/) 
 
 ---
 
-### Thank you for stopping by!
+### Thank you for stopping by! ⚡
 
 I appreciate your interest in my work. Feel free to explore my repositories or get in touch if you’d like to discuss potential collaborations.
 
