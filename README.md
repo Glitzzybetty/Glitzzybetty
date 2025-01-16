@@ -13,11 +13,11 @@ I am passionate about Data Technologies and Artificial Intelligence. My experien
 - **Currently Learning**: Financial Engineering, LLAMA, and other AI frameworks  
 - **Interests**: Data analytics, machine learning, data privacy, compliance, and data literacy advocacy  
 - **Fun Fact**: I am grounded in data techniques for driving business growth.  
-- **Humble Beginnings**: [My Early GitHub Profile](https://github.com/Glitzabeth)
+- **Humble Beginnings**: [My Early GitHub Profile](https://github.com/Glitzabeth) [with old projects here](https://omotayotiti.netlify.app/)
 
 ---
 
-## Projects & Publications
+## Very Recent Projects & Publications
 
 - **[Movie Prediction App](https://movie-revenue-prediction-equh8ryt3apptgtpgkb2jvm.streamlit.app/)**  
   A web-based application built with Streamlit, which predicts movie revenue based on key features like budget, cast popularity, and genre.  
