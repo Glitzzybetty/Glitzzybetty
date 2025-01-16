@@ -10,6 +10,8 @@
 - ⚡ Fun fact: I am ground in data techniques for driving business growth.
 -  Humble beginings, this is also me: https://github.com/Glitzabeth
 - Book Appointments with me here: https://calendar.app.google/PkeXQwqZmuuKqH3A7
+- Hava a glimpse through my most recent project/ publications here
+      - [Movie Prediction App]https://movie-revenue-prediction-equh8ryt3apptgtpgkb2jvm.streamlit.app/
 
 <!---
 Glitzzybetty/Glitzzybetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
