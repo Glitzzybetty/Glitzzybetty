@@ -24,6 +24,8 @@ I am passionate about Data Technologies and Artificial Intelligence. My experien
 
 - **[Credit Risk Optimisation](https://glitzzybetty.github.io/Credit-Risk-Optimisation/)**  
   A project exploring data-driven methods to assess and optimize credit risk, showcasing my background in risk analytics and financial data modeling.
+- **[Loan Default Analysis Dasboard](https://rpubs.com/Glitzzybetty/1211992/)**  
+  A project dashboard that communicates the ABZ business (Fictional Company) Loan Default Analysis and how to improve her business business for loans issued from 2007 to 2013.
 
 ---
 
@@ -41,7 +43,7 @@ I am always excited to work on **Artificial Intelligence** and **Data Science** 
 - **Pronouns**: She/Her  
 - **Looking to Collaborate On**: AI and data projects that drive innovation and solve critical business challenges  
 - **Data Advocacy**: I regularly promote data literacy and best practices in data privacy and protection  
-- **Social**: Let’s connect on [LinkedIn](#) (Add your LinkedIn link if desired)
+- **Social**: Let’s connect on [LinkedIn](https://linkedin.com/in/omotayo-ikudayisi/) 
 
 ---
 
