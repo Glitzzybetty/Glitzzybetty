@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Glitzzybetty/Glitzzybetty/assets/130115684/0c9c87bc-7b1e-407f-90bb-66c7fe500487)
 
-# Hello, I'm Omotayo Ikudayisi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hello, I'm Omotayo Adelere! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I am passionate about Data Technologies and Artificial Intelligence. My experience spans various domains, including **data analytics**, **machine learning**, **financial engineering**, and **data privacy**. I enjoy collaborating on innovative AI and data science projects, where I bridge the gap between **technology**, **business**, and **product**.
 
