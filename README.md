@@ -13,7 +13,7 @@ I am passionate about Data Technologies and Artificial Intelligence. My experien
 - **Currently Learning**: Financial Engineering, LLAMA, and other AI frameworks   
 - **Interests**: Data analytics, machine learning, data privacy, compliance, and data literacy advocacy  
 - **Fun Fact**: I am grounded in data techniques for driving business growth.  
-- **Humble Beginnings**: [My Early GitHub Profile](https://github.com/Glitzabeth) [with old projects here](https://omotayotiti.netlify.app/)
+- **Humble Beginnings**: [My Early GitHub Profile](https://github.com/Glitzabeth) [with old projects here](https://glitzabeth.github.io/my-resume/)
 
 ---
 
@@ -45,7 +45,7 @@ I am always excited to work on **Artificial Intelligence** and **Data Science** 
 
 - **Looking to Collaborate On**: AI and data projects that drive innovation and solve critical business challenges
 - **Data Advocacy**: I regularly promote data literacy and best practices in data privacy and protection  
-- **Social**: Let’s connect on [LinkedIn](https://www.linkedin.com/in/omotayo-ikudayisi/) 
+- **Social**: Let’s connect on [LinkedIn](https://www.linkedin.com/in/omotayo-adelere/) 
 
 ---
 
